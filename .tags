@@ -1,0 +1,41 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+APP_BASE_NAME	gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+CLASSPATH	gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+DEFAULT_JVM_OPTS	gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	v
+DIRNAME	gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+DIRNAME	gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+ExampleInstrumentedTest	app/src/androidTest/java/org/martne/breedlocator/ExampleInstrumentedTest.java	/^public class ExampleInstrumentedTest {$/;"	c
+ExampleUnitTest	app/src/test/java/org/martne/breedlocator/ExampleUnitTest.java	/^public class ExampleUnitTest {$/;"	c
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+JAVA_HOME	gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+WebViewActivity	app/src/main/java/org/martne/breedlocator/WebViewActivity.java	/^public class WebViewActivity extends Activity {$/;"	c
+_SKIP	gradlew.bat	/^set _SKIP=2$/;"	v
+addition_isCorrect	app/src/test/java/org/martne/breedlocator/ExampleUnitTest.java	/^    public void addition_isCorrect() {$/;"	m	class:ExampleUnitTest
+die	gradlew	/^die () {$/;"	f
+end	gradlew.bat	/^:end$/;"	l
+execute	gradlew.bat	/^:execute$/;"	l
+fail	gradlew.bat	/^:fail$/;"	l
+findJavaFromJavaHome	gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+init	gradlew.bat	/^:init$/;"	l
+mainEnd	gradlew.bat	/^:mainEnd$/;"	l
+omega	gradlew.bat	/^:omega$/;"	l
+onCreate	app/src/main/java/org/martne/breedlocator/WebViewActivity.java	/^    protected void onCreate(Bundle savedInstanceState) {$/;"	m	class:WebViewActivity
+org.martne.breedlocator	app/src/androidTest/java/org/martne/breedlocator/ExampleInstrumentedTest.java	/^package org.martne.breedlocator;$/;"	p
+org.martne.breedlocator	app/src/main/java/org/martne/breedlocator/WebViewActivity.java	/^package org.martne.breedlocator;$/;"	p
+org.martne.breedlocator	app/src/test/java/org/martne/breedlocator/ExampleUnitTest.java	/^package org.martne.breedlocator;$/;"	p
+progressBar	app/src/main/java/org/martne/breedlocator/WebViewActivity.java	/^    ProgressBar progressBar;$/;"	f	class:WebViewActivity
+save	gradlew	/^save () {$/;"	f
+useAppContext	app/src/androidTest/java/org/martne/breedlocator/ExampleInstrumentedTest.java	/^    public void useAppContext() {$/;"	m	class:ExampleInstrumentedTest
+warn	gradlew	/^warn () {$/;"	f
+webView	app/src/main/java/org/martne/breedlocator/WebViewActivity.java	/^    private WebView webView;$/;"	f	class:WebViewActivity	file:
+win9xME_args	gradlew.bat	/^:win9xME_args$/;"	l
+win9xME_args_slurp	gradlew.bat	/^:win9xME_args_slurp$/;"	l
